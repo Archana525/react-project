@@ -4,6 +4,8 @@ import Product from "./components/Product"
 import Regform from "./components/sharedComponent/Regform"
 import Login from "./components/sharedComponent/Login"
 
+
+// this is comment
 function App() {
   const [isDarkMode, setDarkMode] = useState(false)
   const [page, setPage] = useState("home")
